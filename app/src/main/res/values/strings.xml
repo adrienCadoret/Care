@@ -4,5 +4,15 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="menu_group_follow_up">Suivi</string>
+    <string name="menu_myday">Journée</string>
+    <string name="menu_weight">Poids</string>
+    <string name="menu_measurements">Mensurations</string>
+    <string name="menu_photos">Photos</string>
+    <string name="menu_sport_activity">Activités sportives</string>
+    <string name="sub_menu_workout">Musculation</string>
+    <string name="menu_settings">Paramètres</string>
+
+
+
 </resources>
